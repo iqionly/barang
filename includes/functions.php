@@ -123,4 +123,3 @@ function datep($date)
 	return $v;
 
 }
-
